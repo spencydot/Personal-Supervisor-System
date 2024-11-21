@@ -1,0 +1,15 @@
+G:\Programing\DDD Program Final\StudentEngagementSystem\bin\Release\net8.0\StudentEngagementSystem.exe
+G:\Programing\DDD Program Final\StudentEngagementSystem\bin\Release\net8.0\StudentEngagementSystem.deps.json
+G:\Programing\DDD Program Final\StudentEngagementSystem\bin\Release\net8.0\StudentEngagementSystem.runtimeconfig.json
+G:\Programing\DDD Program Final\StudentEngagementSystem\bin\Release\net8.0\StudentEngagementSystem.dll
+G:\Programing\DDD Program Final\StudentEngagementSystem\bin\Release\net8.0\StudentEngagementSystem.pdb
+G:\Programing\DDD Program Final\StudentEngagementSystem\obj\Release\net8.0\StudentEngagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programing\DDD Program Final\StudentEngagementSystem\obj\Release\net8.0\StudentEngagementSystem.AssemblyInfoInputs.cache
+G:\Programing\DDD Program Final\StudentEngagementSystem\obj\Release\net8.0\StudentEngagementSystem.AssemblyInfo.cs
+G:\Programing\DDD Program Final\StudentEngagementSystem\obj\Release\net8.0\StudentEngagementSystem.csproj.CoreCompileInputs.cache
+G:\Programing\DDD Program Final\StudentEngagementSystem\obj\Release\net8.0\StudentEngagementSystem.sourcelink.json
+G:\Programing\DDD Program Final\StudentEngagementSystem\obj\Release\net8.0\StudentEngagementSystem.dll
+G:\Programing\DDD Program Final\StudentEngagementSystem\obj\Release\net8.0\refint\StudentEngagementSystem.dll
+G:\Programing\DDD Program Final\StudentEngagementSystem\obj\Release\net8.0\StudentEngagementSystem.pdb
+G:\Programing\DDD Program Final\StudentEngagementSystem\obj\Release\net8.0\StudentEngagementSystem.genruntimeconfig.cache
+G:\Programing\DDD Program Final\StudentEngagementSystem\obj\Release\net8.0\ref\StudentEngagementSystem.dll

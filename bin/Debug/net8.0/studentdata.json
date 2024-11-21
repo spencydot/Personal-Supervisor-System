@@ -1,0 +1,151 @@
+{
+  "Users": [
+    {
+      "Id": "S1",
+      "Name": "Student A",
+      "Password": "pass1",
+      "Role": 0,
+      "SupervisorId": null
+    },
+    {
+      "Id": "S2",
+      "Name": "Student B",
+      "Password": "pass2",
+      "Role": 0,
+      "SupervisorId": null
+    },
+    {
+      "Id": "PS1",
+      "Name": "Supervisor 1",
+      "Password": "pass3",
+      "Role": 1,
+      "SupervisorId": null
+    },
+    {
+      "Id": "ST1",
+      "Name": "Senior Tutor",
+      "Password": "pass4",
+      "Role": 2,
+      "SupervisorId": null
+    }
+  ],
+  "Meetings": [
+    {
+      "Date": "2003-02-01T00:00:00",
+      "StudentId": "S1",
+      "StudentName": "Student A",
+      "SupervisorId": "PS1",
+      "SupervisorName": "Supervisor 1",
+      "Note": "goo"
+    },
+    {
+      "Date": "2024-12-01T00:00:00",
+      "StudentId": "S1",
+      "StudentName": "Student A",
+      "SupervisorId": "PS1",
+      "SupervisorName": "Supervisor 1",
+      "Note": "for god sake show up this time"
+    }
+  ],
+  "WellbeingRecords": [
+    {
+      "StudentId": "S1",
+      "Date": "2024-11-15T22:42:13.2832288+00:00",
+      "FeelingScore": 1,
+      "Comment": "i can do this anymore",
+      "NeedsSupport": true
+    }
+  ],
+  "Communications": [
+    {
+      "Id": "b0c47bb7-6da9-460f-85fd-3948167fe643",
+      "Date": "2024-11-15T22:36:31.5962447+00:00",
+      "SenderId": "SYSTEM",
+      "ReceiverId": null,
+      "Message": "Alert: Student Student A requires attention. Reason: Low average wellbeing score",
+      "IsRead": false,
+      "Type": 1
+    },
+    {
+      "Id": "64e5704c-57d9-4fd1-8166-4983dadd7e73",
+      "Date": "2024-11-15T22:36:31.6102989+00:00",
+      "SenderId": "SYSTEM",
+      "ReceiverId": null,
+      "Message": "Alert: Student Student B requires attention. Reason: Low average wellbeing score",
+      "IsRead": false,
+      "Type": 1
+    },
+    {
+      "Id": "6086c7db-d348-4a45-a9c9-8da9dcf867d8",
+      "Date": "2024-11-15T22:42:13.2873639+00:00",
+      "SenderId": "SYSTEM",
+      "ReceiverId": null,
+      "Message": "Alert: Student Student A requires attention. Reason: Low average wellbeing score",
+      "IsRead": false,
+      "Type": 1
+    },
+    {
+      "Id": "d1fd840e-6bd7-4932-89dc-abed13838b1e",
+      "Date": "2024-11-15T22:42:13.2888192+00:00",
+      "SenderId": "SYSTEM",
+      "ReceiverId": null,
+      "Message": "Alert: Student Student B requires attention. Reason: Low average wellbeing score",
+      "IsRead": false,
+      "Type": 1
+    },
+    {
+      "Id": "e24373ea-9d66-4c5e-bb29-5311e24f76fa",
+      "Date": "2024-11-15T22:42:13.2893798+00:00",
+      "SenderId": "S1",
+      "ReceiverId": null,
+      "Message": "Student has requested support. Feeling score: 1/10. Comment: i want to kill my self now",
+      "IsRead": false,
+      "Type": 1
+    },
+    {
+      "Id": "07f77cb3-65c3-4334-83ff-0d8c908c64cf",
+      "Date": "2024-11-15T22:42:46.7800679+00:00",
+      "SenderId": "S1",
+      "ReceiverId": null,
+      "Message": "i want to die please help with that",
+      "IsRead": false,
+      "Type": 0
+    },
+    {
+      "Id": "820d2737-b1a9-48f0-a7de-d8b6b908756a",
+      "Date": "2024-11-15T23:23:42.0502826+00:00",
+      "SenderId": "SYSTEM",
+      "ReceiverId": null,
+      "Message": "Alert: Student Student A requires attention. Reason: Low average wellbeing score",
+      "IsRead": false,
+      "Type": 1
+    },
+    {
+      "Id": "7c552a89-22a3-408d-8567-b65d34a6f031",
+      "Date": "2024-11-15T23:23:42.0693741+00:00",
+      "SenderId": "SYSTEM",
+      "ReceiverId": null,
+      "Message": "Alert: Student Student B requires attention. Reason: Low average wellbeing score",
+      "IsRead": false,
+      "Type": 1
+    }
+  ],
+  "StudentStats": {
+    "S1": {
+      "StudentId": "S1",
+      "AverageFeelingScore": 1,
+      "MeetingAttendanceCount": 1,
+      "LastEngagement": "2024-11-15T22:42:13.2832288+00:00",
+      "ConsecutiveLowScores": 1,
+      "RequiresAttention": true
+    },
+    "S2": {
+      "StudentId": "S2",
+      "AverageFeelingScore": 0,
+      "MeetingAttendanceCount": 0,
+      "LastEngagement": "0001-01-01T00:00:00",
+      "ConsecutiveLowScores": 0,
+      "RequiresAttention": true
+    }
+  }
+}
